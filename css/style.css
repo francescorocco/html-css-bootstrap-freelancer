@@ -73,3 +73,7 @@ main{
 .ms_buff_card{
     background-color: #ccb2a3;
 }
+
+.ms_ph-color::placeholder{
+    color: black;
+}
