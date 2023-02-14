@@ -38,3 +38,10 @@
 
 /*                  regole css          */
 
+.ms_height {
+    height: 70px;
+}
+
+.ms_filter {
+    filter: invert(1);
+}
