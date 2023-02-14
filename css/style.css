@@ -46,7 +46,30 @@ main{
     margin-top: 70px;
 }
 
-
 .ms_filter {
     filter: invert(1);
+}
+
+.ms_red_card{
+    background-color: #ba4b63;
+}
+
+.ms_msui_card{
+    background-color: #1ea4b6;
+}
+
+.ms_black_card{
+    background-color: #140f0f;
+}
+
+.ms_light_blue_card{
+    background-color: #1c83c1;
+}
+
+.ms_blue_card{
+    background-color: #0e38b5;
+}
+
+.ms_buff_card{
+    background-color: #ccb2a3;
 }
