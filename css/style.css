@@ -34,34 +34,6 @@ main{
     filter: invert(1);
 }
 
-.ms_red_card{
-    background-color: #ba4b63;
-}
-
-.ms_msui_card{
-    background-color: #1ea4b6;
-}
-
-.ms_black_card{
-    background-color: #140f0f;
-}
-
-.ms_light_blue_card{
-    background-color: #1c83c1;
-}
-
-.ms_blue_card{
-    background-color: #0e38b5;
-}
-
-.ms_buff_card{
-    background-color: #ccb2a3;
-}
-
-.ms_ph-color::placeholder{
-    color: black;
-}
-
 .ms_circle_border{
     border: 1px solid white;
     width: 40px;
@@ -69,4 +41,9 @@ main{
     border-radius: 50%;
     display: inline-block;
     line-height: 40px;
+}
+
+.ms_transparent_border{
+    border: 1px solid transparent;
+    border-radius: 30px;
 }
