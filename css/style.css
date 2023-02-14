@@ -38,9 +38,14 @@
 
 /*                  regole css          */
 
-.ms_height {
+header {
     height: 70px;
 }
+
+main{
+    margin-top: 70px;
+}
+
 
 .ms_filter {
     filter: invert(1);
